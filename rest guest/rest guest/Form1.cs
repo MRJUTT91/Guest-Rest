@@ -36,23 +36,7 @@ namespace rest_guest
 
         }
 
-        private async void guna2Button1_Click(object sender, EventArgs e)
-        {
-            Int32 proc = Process.GetProcessesByName("HD-Player")[0].Id;
-            Memlib.OpenProcess(proc);
-            status.Text = "Code FUCK Wait kar";
-            status.ForeColor = Color.Red;
-            var enumerable = await Memlib.AoBScan(0, long.MaxValue, "55 89 E5 53  56 83 E4 F0 8D 64 24 F0 E8 00 00 00 00 5B 81 C3 1B E7 5A 04 80 BB 8B 4B ", true, true, false, string.Empty);
-            JUTT = "OX" + enumerable.FirstOrDefault().ToString();
-            foreach (long num in enumerable)
-            {
-                Memlib.WriteMemory(num.ToString("X"), "bytes", "B8 01 00 00 00 C3", string.Empty, null);
-            }
-            status.Text = "REST FUCK";
-            status.ForeColor = Color.White;
-
-            Console.Beep(400, 500);
-        }
+        
 
         private async void guna2ToggleSwitch1_CheckedChanged(object sender, EventArgs e)
         {
