@@ -1,0 +1,12 @@
+E:\game dev\rest guest\rest guest\bin\x64\Release\rest guest.exe.config
+E:\game dev\rest guest\rest guest\bin\x64\Release\rest guest.exe
+E:\game dev\rest guest\rest guest\bin\x64\Release\rest guest.pdb
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.csproj.AssemblyReference.cache
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest_guest.Properties.Resources.resources
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.csproj.GenerateResource.cache
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.csproj.CoreCompileInputs.cache
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.exe
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.pdb
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest_guest.Form1.resources
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.csproj.Fody.CopyLocal.cache
+E:\game dev\rest guest\rest guest\obj\x64\Release\rest guest.csproj.Fody.RuntimeCopyLocal.cache
